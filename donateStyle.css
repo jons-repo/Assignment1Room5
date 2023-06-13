@@ -1,0 +1,113 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+header {
+  height: auto;
+  margin: 0;
+  background-color: #3e8e41;
+  color: white;
+  padding: 30px auto;
+  text-align: center;
+}
+
+.page-name {
+  font-family: "Kanit", sans-serif;
+  color: wheat;
+  font-size: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 0;
+}
+
+body {
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+}
+
+.navbar {
+  font-size: 20px;
+  margin: 0 auto;
+  padding-top: auto;
+  padding-bottom: 20px;
+  font-weight: bolder;
+}
+.navbar a {
+  color: white;
+  padding: 30px 10px;
+  margin: 0 auto;
+}
+
+img {
+  padding-top: 25px;
+  display: flex;
+  margin: auto;
+  width: 50%;
+}
+.message {
+  border-radius: 20px;
+  color: black;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  margin-bottom: 25px;
+  padding: 10px 14px 10px 44px;
+  position: relative;
+  box-shadow: 0px 1px 5px #999;
+  height: 50%;
+  width: 75%;
+  text-align: center;
+  word-wrap: break-word;
+}
+
+.donate-button {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button {
+  background-color: #3e8e41;
+  border: none;
+  color: white;
+  padding: 15px 30px;
+  text-align: center;
+  margin: 15px 30px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+  box-shadow: 0 5px #666;
+}
+
+.button:hover {
+  background-color: lightskyblue;
+}
+
+.button:active {
+  background-color: lightskyblue;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.resource {
+  padding-left: 25%;
+  padding-bottom: 3%;
+  margin-top: 3%;
+  text-align: left;
+}
+
+.resource a {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 18px;
+}
+
+.resource a:hover {
+  background-color: lightskyblue;
+}
+
+footer {
+  background-color: #3e8e41;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
