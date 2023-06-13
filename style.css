@@ -1,27 +1,27 @@
 body {
-    background-color: #FFFFFF;
-    color: #000000;
-  }
- 
-  h1 {
-    font-size: 24px;
-    color: black;
-    font-weight: bold;
-  }
- 
-  p {
-    font-size: 14px;
-    opacity: 0.8;
-  }
- 
-  #header {
-    background-image: url(header.jpg);
-  }
+  background-color: #FFFFFF;
+  color: #000000;
+}
+
+h1 {
+  font-size: 24px;
+  color: black;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+  opacity: 0.8;
+}
+
+#header {
+  background-image: url(header.jpg);
+}
 
 img{
-  height: 150px;
-  width: 120px;
-  text-align:center;
-  
+height: 150px;
+width: 120px;
+text-align:center;
+
 }
 
