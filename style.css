@@ -19,9 +19,20 @@ p {
 }
 
 img{
-height: 150px;
-width: 120px;
+height: 250px;
+width: 1500px;
 text-align:center;
 
 }
+
+body{
+  background-image:url("https://content.codecademy.com/courses/learn-css-selectors-visual-rules/hypnotize_bg.png");
+}
+
+#main{
+  text-align: center;
+  font-size: 36px;
+}
+
+
 
