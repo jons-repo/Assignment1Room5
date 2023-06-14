@@ -1,17 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  width: 300px; 
+  height: auto; 
+}
+
+
 body {
-  background-color: #FFFFFF;
-  color: #000000;
-}
-
-h1 {
-  font-size: 24px;
-  color: black;
-  font-weight: bold;
-}
-
-p {
-  font-size: 14px;
-  opacity: 0.8;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  line-height: 1.5;
+  text-align: center;
+  color: #333;
+  background-color: #f7f7f7;
 }
 
 #header {
@@ -19,8 +23,8 @@ p {
 }
 
 img{
-height: 250px;
-width: 1500px;
+height: 150px;
+width: 120px;
 text-align:center;
 
 }
